@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TugasActivityIntent</string>
+    <string name="regis">Register</string>
+    <string name="urname">Username</string>
+    <string name="mail">Email</string>
+    <string name="phn">Phone</string>
+    <string name="pw">Password</string>
+    <string name="log">Login</string>
+    <string name="alrdy">Already Have an Account?</string>
+    <string name="log2">Log in</string>
+    <string name="tiktik">.</string>
+    <string name="cond">Conditions</string>
+    <string name="and">and</string>
+    <string name="trms">Terms</string>
+    <string name="bycek">By checking the box you agree to our</string>
+    <string name="rmmber">Remember me</string>
+    <string name="frgt">Forgot password?"</string>
+    <string name="nwmmbr">New Member?</string>
+
+</resources>
